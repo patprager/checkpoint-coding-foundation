@@ -15,7 +15,6 @@ function filterApiData(apiData, mandatoryKeys) {
     if (check === true) {
       return true;
     }
-    // console.log(mandatoryKeys[i]);
     console.log(arr);
   });
   return filterArr;
